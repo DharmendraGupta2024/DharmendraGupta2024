@@ -1,9 +1,9 @@
 <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg"/>
 <!-- <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230" />
-</div>
-
+</div> -->
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!-- <p align="center">
  <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
