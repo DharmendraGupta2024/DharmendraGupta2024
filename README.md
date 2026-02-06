@@ -121,7 +121,6 @@
 <code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" /></code>
 <code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" /></code>
 
-</div>
 <!--START_SECTION:waka-->
 ```text
 Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
@@ -131,3 +130,5 @@ YAML        21 mins             ██░░░░░░░░░░░░░░
 Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 <!--END_SECTION:waka-->
+</div>
+
