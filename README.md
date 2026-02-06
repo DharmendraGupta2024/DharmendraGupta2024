@@ -1,5 +1,9 @@
 <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg"/>
-<img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<!-- <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"> -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230" />
+</div>
+
 
 <!-- <p align="center">
  <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
