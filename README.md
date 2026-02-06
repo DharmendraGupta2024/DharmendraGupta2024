@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dharmendra Gupta</h1>
 <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg"/>
 
 
