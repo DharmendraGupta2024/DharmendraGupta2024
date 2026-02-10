@@ -11,7 +11,7 @@
   <tr>
     <td>
 
-### Hello, World! <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif" width="70px" height="70px"  />
+### Hello, World! <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif" width="30px" height="30px"  />
 
 - Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
 - Proficient in **Java, JavaScript, Python, React, SQL**
