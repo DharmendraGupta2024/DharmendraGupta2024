@@ -7,21 +7,32 @@
  <img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 	<br>
 </div> -->
-Hello, World!
-<img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif"
-     width="60"
-     align="right" />
+<table>
+  <tr>
+    <td>
+
+### Hello, World!
 
 - Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
 - Proficient in **Java, JavaScript, Python, React, SQL**
 - Built ML-driven solutions using **Python for data analysis and optimization**
 - Worked on **agri-tech, AI-enabled travel platforms, and IoT systems**
 - Interested in **scalable systems, ML integration, and data-informed decision making**
-<img
-  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-  width="160"
-  align="right"
-/>
+
+    </td>
+    <td align="right">
+      <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif" width="70" />
+    </td>
+  </tr>
+</table>
+
+<div align="right">
+  <img
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+    width="160"
+  />
+</div>
+
 
   <!-- <img 
   <div align="right">
