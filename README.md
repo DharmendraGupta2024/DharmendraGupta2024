@@ -7,6 +7,17 @@
  <img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 	<br>
 </div> -->
+<p>
+  <em>
+    Final-year Computer Science undergraduate specializing in
+    <b>full-stack web development</b> and <b>system-driven problem solving</b>.
+    Strong foundation in <b>Java, JavaScript, React, SQL, Python</b>, with experience in
+    <b>API integration, responsive UI design, backend services, and data analysis</b>.
+    Built and deployed applications across <b>agri-tech, travel platforms, and IoT systems</b>,
+    focusing on scalability, performance, and usability.
+  </em>
+</p>
+
   <div align="right">
   <img 
     alt="GIF" 
