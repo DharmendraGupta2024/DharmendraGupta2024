@@ -1,4 +1,4 @@
-  <img align="center" src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" width="600" height="300"/>
+  <img width="700" height="300" align="center" src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" />
 
 <!-- <h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2> -->
 
