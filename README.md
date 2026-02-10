@@ -105,6 +105,12 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
     alt="GitHub Streak"
   />
 </p>
+<br>
+
+<img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
+
 
 ## Connect With Me
 
