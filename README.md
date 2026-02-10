@@ -2,7 +2,7 @@
   <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" />
 </p>
 
-<h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2>
+<!-- <h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2> -->
 
 <p align="center">
   <b>Final-year Computer Science Undergraduate</b> <br/>
