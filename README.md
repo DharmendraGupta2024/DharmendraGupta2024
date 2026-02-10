@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 <table>
   <tr>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Core Technical Strengths
+## Core Technical Strengths
 
 - **Programming Languages:** Java, JavaScript, Python, C, C++
 - **Frontend:** React, HTML5, CSS3, Tailwind
@@ -42,9 +42,9 @@
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
-### 💻 Languages
+### Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="46"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="46"/>
@@ -52,21 +52,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="46"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="46"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="46"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="46"/>
 </p>
 
-### 🤖 Machine Learning & Data
+### Machine Learning & Data
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="46"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="46"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="46"/>
 </p>
 
-### 🗄 Databases & Tools
+### Databases & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="46"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="46"/>
@@ -76,7 +76,7 @@
 
 ---
 
-## 📊 Coding Activity Snapshot
+## Coding Activity Snapshot
 
 <pre>
 Python      ██████████░░░░░░░░░░░░░   39.80 %
@@ -105,7 +105,7 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharmendragupta2024">
