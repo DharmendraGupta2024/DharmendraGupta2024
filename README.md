@@ -2,14 +2,15 @@
 
 <!-- <h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2> -->
 
-<p align="center">
-  <b>Final-year Computer Science Undergraduate</b> <br/>
-  Full-Stack Development • Machine Learning • Problem Solving
-</p>
+
 
 ---
 
 ## About Me
+<p align="center">
+  <b>Final-year Computer Science Undergraduate</b> <br/>
+  Full-Stack Development • Machine Learning • Problem Solving
+</p>
 
 <table>
   <tr>
