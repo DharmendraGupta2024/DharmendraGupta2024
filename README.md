@@ -106,7 +106,11 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 
 ## Connect With Me
 
-<p align="center">
+📧 dharmendragupta2024@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/dharmendragupta2024  
+🏆 HackerRank: https://www.hackerrank.com/profile/CS_2201640100135
+
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/dharmendragupta2024">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/>
   </a>
@@ -128,6 +132,6 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>Code with clarity. Build with purpose.</i>
-</p>
+</p> -->
 
 
