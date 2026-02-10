@@ -9,7 +9,9 @@
 	<br>
 	
 </div> 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=700&color=7F7FD5&center=true&vCenter=true&width=700&lines=I+build+real-world+projects.;I+love+DSA+%26+problem-solving.;I+work+with+Java+%7C+Python+%7C+Web+Tech.;I+explore+Backend+Systems+%26+Machine+Learning." />
+</p>
 
 
 <!-- <p align="center">
