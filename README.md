@@ -95,16 +95,16 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api?username=DharmendraGupta2024&show_icons=true&theme=dark&hide_border=true"
     height="160"
     alt="GitHub Stats"
-  />
-  <!-- <img
+  /> -->
+  <img
     src="https://streak-stats.demolab.com?user=DharmendraGupta2024&theme=dark&hide_border=true"
     height="160"
     alt="GitHub Streak"
-  /> -->
+  />
 </p>
 
 
