@@ -104,18 +104,24 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
   />
 </p>
 
-
-
 ## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharmendragupta2024">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/dashboard">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/CS_2201640100135">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:dharmendragupta2024@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" height="32"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dharmendragupta2024@gmail.com">dharmendragupta2024@gmail.com</a>
 </p>
 
 ---
@@ -123,3 +129,5 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 <p align="center">
   <i>Code with clarity. Build with purpose.</i>
 </p>
+
+
