@@ -7,21 +7,29 @@
  <img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 	<br>
 </div> -->
-### Hello, World!  <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif"/>
+Hello, World!
+<img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif"
+     width="60"
+     align="right" />
 
 - Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
 - Proficient in **Java, JavaScript, Python, React, SQL**
 - Built ML-driven solutions using **Python for data analysis and optimization**
 - Worked on **agri-tech, AI-enabled travel platforms, and IoT systems**
 - Interested in **scalable systems, ML integration, and data-informed decision making**
+<img
+  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+  width="160"
+  align="right"
+/>
 
+  <!-- <img 
   <div align="right">
-  <img 
     alt="GIF" 
     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-    style="width:200px; height:200px;"
-  />
-</div>
+    style="width:200px; height:200px;" /> 
+	</div>
+ 	-->
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=700&color=7F7FD5&center=true&vCenter=true&width=700&lines=I+build+real-world+projects.;I+love+DSA+%26+problem-solving.;I+work+with+Java+%7C+Python+%7C+Web+Tech.;I+explore+Backend+Systems+%26+Machine+Learning." />
