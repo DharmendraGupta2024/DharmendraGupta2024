@@ -11,7 +11,7 @@
   <tr>
     <td>
 
-### Hello, World!
+### Hello, World! <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif" width="70" align="right" />
 
 - Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
 - Proficient in **Java, JavaScript, Python, React, SQL**
@@ -21,16 +21,17 @@
 
     </td>
     <td align="right">
-      <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif" width="70" />
+      <img
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+    width="160"
+  />
     </td>
   </tr>
 </table>
 
 <div align="right">
-  <img
-    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-    width="160"
-  />
+ 
+	
 </div>
 
 
