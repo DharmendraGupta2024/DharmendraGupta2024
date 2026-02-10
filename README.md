@@ -3,85 +3,82 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2>
-<h4 align="center">
-Final-year Computer Science Undergraduate • Full-Stack Developer • Machine Learning Enthusiast
-</h4>
+
+<p align="center">
+  <b>Final-year Computer Science Undergraduate</b> <br/>
+  Full-Stack Development • Machine Learning • Problem Solving
+</p>
 
 ---
 
-## 🌍 Hello, World!
+## 👋 About Me
 
 <table>
   <tr>
-    <td width="72%">
+    <td width="70%">
 
-- 🎓 Final-year CS undergraduate with experience in **full-stack development** and **applied machine learning**
-- 💻 Proficient in **Java, JavaScript, Python, React, SQL**
-- 🤖 Built ML-driven solutions using **Python** for data analysis and optimization
-- 🌱 Worked on **agri-tech**, **AI-enabled travel platforms**, and **IoT systems**
-- 🚀 Interested in **scalable systems**, **ML integration**, and **data-informed decision making**
+- Computer Science undergraduate with a strong focus on **software engineering fundamentals**
+- Hands-on experience in **full-stack web development** and **applied machine learning**
+- Comfortable working across **frontend, backend, databases, and data pipelines**
+- Strong inclination towards **scalable systems, clean architecture, and performance**
+- Enjoy solving **real-world problems** using data-driven and system-oriented approaches
 
-  </td>
-  <td width="28%" align="center">
-    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="160"/>
-  </td>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="150"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Core Technical Strengths
 
-### 💻 Languages & Libraries
+- **Programming Languages:** Java, JavaScript, Python, C, C++
+- **Frontend:** React, HTML5, CSS3, Tailwind
+- **Backend & APIs:** RESTful APIs, backend service integration
+- **Databases:** MySQL, SQLite
+- **Machine Learning:** Data preprocessing, model training, evaluation, optimization
+- **Tools & Platforms:** Git, GitHub, Linux
+- **Practices:** Debugging, Root Cause Analysis, System Thinking
+
+---
+
+## 🛠 Technology Stack
+
+### 💻 Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="46"/>
 </p>
 
-### 🧠 Machine Learning & Data
+### 🌐 Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="46"/>
 </p>
 
-### 🗄 Databases
+### 🤖 Machine Learning & Data
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="46"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="46"/>
 </p>
 
-### ⚙️ Tools & Frameworks
+### 🗄 Databases & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="46"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🌾 Krishi Mitra (Agri-Tech Platform)
-- Real-time crop & soil recommendation system
-- Integrated live weather data and soil analysis
-- Improved decision-making accuracy by **25%**
-
-### ✈️ AI-Driven Travel Platform
-- Automated trip planning with admin dashboard
-- AI-based recommendations improved planning efficiency by **30%**
-- Built with **React, Appwrite, Syncfusion**
-
-### 🚜 Smart Agricultural System (IoT + ML)
-- IoT-based automated irrigation using NodeMCU & sensors
-- Applied **ML models** to optimize irrigation schedules
-- Reduced water wastage significantly
-
----
-
-## ⏱ Coding Activity
+## 📊 Coding Activity Snapshot
 
 <pre>
 Python      ██████████░░░░░░░░░░░░░   39.80 %
@@ -94,10 +91,12 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dharmendragupta2024">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/dashboard">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
   </a>
@@ -106,5 +105,5 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 ---
 
 <p align="center">
-  <i>“Code with clarity. Build with purpose.”</i>
+  <i>Code with clarity. Build with purpose.</i>
 </p>
