@@ -13,7 +13,6 @@
     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
     style="width:200px; height:200px;"
   />
-  <br>
 </div>
 
 <p align="center">
