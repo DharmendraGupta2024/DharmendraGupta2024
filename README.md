@@ -7,16 +7,13 @@
  <img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 	<br>
 </div> -->
-<p>
-  <em>
-    Final-year Computer Science undergraduate specializing in
-    <b>full-stack web development</b> and <b>system-driven problem solving</b>.
-    Strong foundation in <b>Java, JavaScript, React, SQL, Python</b>, with experience in
-    <b>API integration, responsive UI design, backend services, and data analysis</b>.
-    Built and deployed applications across <b>agri-tech, travel platforms, and IoT systems</b>,
-    focusing on scalability, performance, and usability.
-  </em>
-</p>
+### Hello, World!  <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif"/>
+
+- Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
+- Proficient in **Java, JavaScript, Python, React, SQL**
+- Built ML-driven solutions using **Python for data analysis and optimization**
+- Worked on **agri-tech, AI-enabled travel platforms, and IoT systems**
+- Interested in **scalable systems, ML integration, and data-informed decision making**
 
   <div align="right">
   <img 
