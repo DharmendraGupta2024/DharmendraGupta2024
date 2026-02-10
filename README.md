@@ -13,7 +13,7 @@
 
 ### Hello, World! <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/Earth.gif" width="30px" height="30px"  />
 
-- Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
+- I am a Final-year CS undergraduate with experience in **full-stack development and applied machine learning**
 - Proficient in **Java, JavaScript, Python, React, SQL**
 - Built ML-driven solutions using **Python for data analysis and optimization**
 - Worked on **agri-tech, AI-enabled travel platforms, and IoT systems**
