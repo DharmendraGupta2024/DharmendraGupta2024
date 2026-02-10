@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" width="700" />
+  <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" width="650" height="300" />
 </p>
 
 <!-- <h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2> -->
