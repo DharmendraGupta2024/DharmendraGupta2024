@@ -94,12 +94,14 @@ Markdown    █░░░░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DharmendraGupta2024&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=DharmendraGupta2024&show_icons=true&theme=dark&hide_border=true"
     height="160"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DharmendraGupta2024&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=DharmendraGupta2024&theme=dark&hide_border=true"
     height="160"
+    alt="GitHub Streak"
   />
 </p>
 
