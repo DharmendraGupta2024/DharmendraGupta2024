@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" />
-</p>
+  <img align="center" src="https://github.com/DharmendraGupta2024/DharmendraGupta2024/blob/main/svg.svg" />
 
 <!-- <h2 align="center">Hey 👋, I'm Dharmendra Gupta</h2> -->
 
