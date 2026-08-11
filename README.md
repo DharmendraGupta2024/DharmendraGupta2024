@@ -141,12 +141,12 @@ C           █░░░░░░░░░░░░░░░░░░░░░�
 
 ## Skills Overview
 
-**Languages:** Python, Java, JavaScript, SQL, C
-**Web:** HTML5, CSS3, React, Flask
-**Cloud & DevOps:** Microsoft Azure, Terraform, Azure DevOps CI/CD
-**Infrastructure:** Azure Landing Zone, Infrastructure as Code, Resource Provisioning
-**Tools:** Git, GitHub, MySQL, Docker, Linux
-**Coursework:** DSA, DBMS, OOPs, Computer Networks
+* **Languages:** Python, Java, JavaScript, SQL, C
+* **Web:** HTML5, CSS3, React, Flask
+* **Cloud & DevOps:** Microsoft Azure, Terraform, Azure DevOps CI/CD
+* **Infrastructure:** Azure Landing Zone, Infrastructure as Code, Resource Provisioning
+* **Tools:** Git, GitHub, MySQL, Docker, Linux
+* **Coursework:** DSA, DBMS, OOPs, Computer Networks
 
 ---
 
