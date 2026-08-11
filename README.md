@@ -9,7 +9,7 @@
 ## About Me
 
 <p align="center">
-  <b>Final-year Computer Science Undergraduate</b> <br/>
+  <b>DevOps Engineer</b> <br/>
   Full-Stack Development • Cloud & DevOps • Machine Learning • Problem Solving
 </p>
 
