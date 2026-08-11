@@ -139,22 +139,12 @@ C           █░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## Skills Overview
-
-* **Languages:** Python, Java, JavaScript, SQL, C
-* **Web:** HTML5, CSS3, React, Flask
-* **Cloud & DevOps:** Microsoft Azure, Terraform, Azure DevOps CI/CD
-* **Infrastructure:** Azure Landing Zone, Infrastructure as Code, Resource Provisioning
-* **Tools:** Git, GitHub, MySQL, Docker, Linux
-* **Coursework:** DSA, DBMS, OOPs, Computer Networks
-
----
 
 ## Connect With Me
 
-📧 [dharmendragupta2024@gmail.com](mailto:dharmendragupta2024@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/dharmendragupta2024
-🏆 HackerRank: https://www.hackerrank.com/profile/CS_2201640100135
+* 📧 [dharmendragupta2024@gmail.com](mailto:dharmendragupta2024@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/dharmendragupta2024
+* 🏆 HackerRank: https://www.hackerrank.com/profile/CS_2201640100135
 
 ---
 
